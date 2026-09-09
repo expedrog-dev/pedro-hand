@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Pedro Hand";
+  src: url("./PedroHand-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+.pedro-hand { font-family: "Pedro Hand", cursive; font-weight: 400; font-kerning: normal; line-height: 1.45; }
